@@ -19,7 +19,7 @@ npm run dev
 Crear un archivo `.env.local` con la siguiente variable:
 
 ```
-NEXT_PUBLIC_API_URL=http://localhost:3001
+NEXT_PUBLIC_API_URL=http://localhost:3000
 ```
 
 ## Funcionalidades
